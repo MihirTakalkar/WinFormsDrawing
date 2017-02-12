@@ -76,7 +76,7 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Form1
+            // MihirDrawing
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -86,8 +86,9 @@
             this.Controls.Add(this.locationLabel);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.canvas);
-            this.Name = "Form1";
+            this.Name = "MihirDrawing";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.MihirDrawing_Load);
             ((System.ComponentModel.ISupportInitialize)(this.canvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

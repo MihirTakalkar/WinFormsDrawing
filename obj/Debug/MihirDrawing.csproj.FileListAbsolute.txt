@@ -6,3 +6,6 @@ C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\bin\De
 C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.MihirDrawing.resources
 C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.exe
 C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.pdb
+C:\Users\GMRInstructor\Documents\GitHub\MihirWinFormsDrawing\bin\Debug\MihirDrawing.exe.config
+C:\Users\GMRInstructor\Documents\GitHub\MihirWinFormsDrawing\obj\Debug\MihirDrawing.exe
+C:\Users\GMRInstructor\Documents\GitHub\MihirWinFormsDrawing\obj\Debug\MihirDrawing.pdb

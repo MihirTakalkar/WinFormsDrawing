@@ -15,6 +15,8 @@ namespace MihirDrawing
         Graphics gfx;
         Bitmap bitmap;
         Face face;
+
+        //test github change
         public MihirDrawing()
         {
             InitializeComponent();
@@ -58,6 +60,11 @@ namespace MihirDrawing
             //draw
             face.Draw(gfx);
             canvas.Image = bitmap;
+        }
+
+        private void MihirDrawing_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
