@@ -1,0 +1,8 @@
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.Properties.Resources.resources
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.csproj.GenerateResource.Cache
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\bin\Debug\MihirDrawing.exe.config
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\bin\Debug\MihirDrawing.exe
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\bin\Debug\MihirDrawing.pdb
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.MihirDrawing.resources
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.exe
+C:\Users\GMRInstructor\Documents\visual studio 2015\Projects\MihirDrawing\obj\Debug\MihirDrawing.pdb
